@@ -1,0 +1,9 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d123d48d-b0c8-4f3a-813f-42a2965cf8eb/resourceGroups/demo-apim-dev-we/providers/Microsoft.Web/sites/haalcentraaltest",
+    "appService.deploySubpath": "my-website\\build"
+}
